@@ -1,0 +1,9 @@
+Filesystem       Inodes  IUsed    IFree IUse% Mounted on
+/dev/sda6       1152816 186765   966051   17% /
+none             250665      2   250663    1% /sys/fs/cgroup
+udev             246796    490   246306    1% /dev
+tmpfs            250665    472   250193    1% /run
+none             250665      1   250664    1% /run/lock
+none             250665      5   250660    1% /run/shm
+none             250665     20   250645    1% /run/user
+/dev/sda1      37115028 146285 36968743    1% /media/narayan/96B634C7B634AA1F
